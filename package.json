@@ -1,0 +1,19 @@
+{
+  "name": "tree-sitter-cbot",
+  "main": "./lib/language-cbot",
+  "version": "0.0.1",
+  "description": "Package for CBOT language (Colobot)",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "language-cbot:toggle"
+  },
+  "homepage": "https://github.com/atom/language-cbot",
+  "repository": "https://github.com/atom/language-cbot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
